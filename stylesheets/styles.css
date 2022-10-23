@@ -162,7 +162,6 @@ footer {
     color: white;
     font-family: var(--fntOpenSans);
     font-style: normal;
-    border: 1px solid red;
 }
 
 footer a, footer p {
